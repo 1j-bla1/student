@@ -4,7 +4,7 @@ title: I'm James Blazek
 hide: true
 ---
 
-### Me and Team
+### Me and Team.
 
 Hi! My name is James Blazek.
 
