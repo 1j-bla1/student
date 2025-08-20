@@ -3,8 +3,7 @@ layout: base
 title: I'm James Blazek
 hide: true
 ---
-
-### Me and Team.
+### Me and the Team
 
 Hi! My name is James Blazek.
 
