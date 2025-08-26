@@ -83,7 +83,6 @@ console.log("Joke #" + (randomIndex + 1) + ": " + selectedJoke.joke + " (Complex
 ```
 
 
-    <IPython.core.display.Javascript object>
 
 
 
