@@ -107,7 +107,7 @@ My family is very important to me and is a key part of my life. I also have many
 
 - My mother told me that I was English, Czechia, and Polish.
 - My family is a average size as I have my mom, my dad, and a younger brother in 6th grade.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- Image of my family
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
