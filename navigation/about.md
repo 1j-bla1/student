@@ -60,7 +60,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "f/f7/Flag_of_Texas.svg", "greeting": "Howdy", "description": "Texas - For 5 years" },
-        {"flag": "f/f7/Flag_of_California.svg", "greeting": "Hey", "description": "California - To present Say"},
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - To present Say"},
     ];
 
     // 3a. Consider how to update style count for size of container
