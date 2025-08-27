@@ -113,6 +113,6 @@ My family is very important to me and is a key part of my life. I also have many
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Early Family Photo.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/Early_Family_Photo.jpg" alt="Image 1">
 
 </div>
