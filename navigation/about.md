@@ -105,7 +105,7 @@ Here is what I did at those places
 
 My family is very important to me and is a key part of my life. I also have many friends that help make school days better.
 
-- My mother told me that I was English, Czechia, and Polish.
+- My mother told me that I was English, Czech, and Polish.
 - My family is a average size as I have my mom, my dad, and a younger brother in 6th grade.
 - Image of my family
 
@@ -113,6 +113,6 @@ My family is very important to me and is a key part of my life. I also have many
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Early_Family_Photo.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/Early Family Photo.jpg" alt="Image 1">
 
 </div>
