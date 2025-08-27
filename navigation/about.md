@@ -110,7 +110,7 @@ My family is very important to me and is a key part of my life. I also have many
 - Image of my family
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Picture of me and my family several years ago
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/Early_Family_Photo.jpg" alt="Image 1">
