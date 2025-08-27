@@ -10,7 +10,7 @@ comments: true
 Here are some places I have lived.
 
 Flags are made using Wikipedia images
-</comment>
+
 
 <style>
     /* Style looks pretty compact, 
