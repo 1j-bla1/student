@@ -60,7 +60,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "f/f7/Flag_of_Texas.svg", "greeting": "Howdy", "description": "Texas - For 5 years" },
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - To present Say"},
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - To present Day"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -99,15 +99,14 @@ Flags are made using Wikipedia images
 Here is what I did at those places
 
 - 🏫 Montessori School in Sugarland, Texas
-- 🏫 Kindergarten, Middle and High School in San Diego, California
+- 🏫 Kindergarten, Elementary, Middle, and High School in San Diego, California
 
-### Culture, Family, and Fun
+### Family, and Fun
 
 My family is very important to me and is a key part of my life. I also have many friends that help make school days better.
 
 - My mother told me that I was English, Czech, and Polish.
 - My family is a average size as I have my mom, my dad, and a younger brother in 6th grade.
-- Image of my family
 
 <comment>
 Picture of me and my family several years ago
