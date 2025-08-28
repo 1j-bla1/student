@@ -6,12 +6,12 @@ github_repo: "student"
 baseurl: "/student" 
 future: true
 remote_theme: pages-themes/cayman
-minima:
-  skin: dark
-  social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
-    - { platform: x, user_url: "https://x.com/Open_Coding" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
+#minima:
+  #skin: dark
+  #social_links:
+  #  - { platform: github, user_url: "https://github.com/open-coding-society" }
+   # - { platform: x, user_url: "https://x.com/Open_Coding" }
+  #  - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
