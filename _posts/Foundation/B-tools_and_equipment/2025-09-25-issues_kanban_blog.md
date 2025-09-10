@@ -1,9 +1,17 @@
+---
+layout: post
+title: Issues and Kanbans
+description: This page will teach you the basics of how to use GitHub issues and Kanbans in your projects
+categories: ['DevOps']
+permalink: /issues-kanban-blog
+---
+
 # Issues and Kanbans
  
  
  
 ## How Issues and Kanbans are Used
-###### Issues and Kanbans are huge pieces in coding projects. When you have many different parts you must code it becomes hard to keep track of everything. Issues and Kanbans solve this problem by helping you and your group stay organized.
+ Issues and Kanbans are huge pieces in coding projects. When you have many different parts you must code it becomes hard to keep track of everything. Issues and Kanbans solve this problem by helping you and your group stay organized.
  
 ## How do Issues and Kanbans Work?
  
