@@ -26,10 +26,10 @@ permalink: /background
     imagesLoaded++;
     startGameWorld();
   };
-#This sets up the world for the game
+//This sets up the world for the game
   function startGameWorld() {
     if (imagesLoaded < 2) return;
-#Game object becomes a object in the game and can be influenced by other objects like background and player.
+//Game object becomes a object in the game and can be influenced by other objects like background and player.
     class GameObject {
       constructor(image, width, height, x = 0, y = 0, speedRatio = 0) {
         this.image = image;
@@ -45,7 +45,7 @@ permalink: /background
         ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
       }
     }
-#This makes background become a game object and share code with game object
+//This makes background become a game object and share code with game object
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
@@ -59,7 +59,7 @@ permalink: /background
         ctx.drawImage(this.image, this.x + this.width, this.y, this.width, this.height);
       }
     }
-#Player gains properties from the game object.
+//Player gains properties from the game object.
     class Player extends GameObject {
       constructor(image, gameWorld) {
         const width = image.naturalWidth / 2;
@@ -76,7 +76,7 @@ permalink: /background
       }
     }
 
-#Keeps track of the game. Contains the speed of the game and controls the game loop which keeps the game running infinitely.
+//Keeps track of the game. Contains the speed of the game and controls the game loop which keeps the game running infinitely.
     class GameWorld {
       static gameSpeed = 5;
       constructor(backgroundImg, spriteImg) {
@@ -97,7 +97,7 @@ permalink: /background
          new Player(spriteImg, this)
         ];
       }
-      #Creates a infinite loop in the game that keeps the game running constantly
+      //Creates a infinite loop in the game that keeps the game running constantly
       gameLoop() {
         this.ctx.clearRect(0, 0, this.width, this.height);
         for (const obj of this.gameObjects) {
@@ -106,13 +106,13 @@ permalink: /background
         }
         requestAnimationFrame(this.gameLoop.bind(this));
       }
-      #Starts the infinite game loop
+      //Starts the infinite game loop
       start() {
         this.gameLoop();
       }
     }
 
     const world = new GameWorld(backgroundImg, spriteImg);
-    #Runs the code by starting the world
+    //Runs the code by starting the world
     world.start();
   }
